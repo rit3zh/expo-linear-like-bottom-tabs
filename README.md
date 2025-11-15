@@ -11,7 +11,7 @@ A sleek Linear-inspired bottom tab bar for React Native — smooth, minimal, and
 ## ✨ Features
 
 - 🔵 Linear-style floating bottom tab bar
-- ⚡ Built with Reanimated + Expo
+- ⚡ Built with Reanimated + Expo + Gesture Handler
 - 📱 Works on **iOS & Android**
 - 🎨 Clean, minimal UI with smooth transitions
 - 🧩 TypeScript-ready
