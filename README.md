@@ -24,6 +24,6 @@ A sleek Linear-inspired bottom tab bar for React Native — smooth, minimal, and
 git clone https://github.com/rit3zh/expo-linear-like-bottom-tabs
 cd expo-linear-like-bottom-tabs
 bun install
-bunx expo prebuild --platform ios
 bun ios
+bun android
 ```
